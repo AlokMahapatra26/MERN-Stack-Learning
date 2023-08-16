@@ -1,0 +1,30 @@
+***** Things to keep in mind *****
+
+=> focus on fundamentals
+=> Cut out the noice (Layoffs/chatgpt)
+=> Stick through it for january
+=> Stopping is the only Sin 
+=> Dont fear everyone has their own journey
+=> Motivation comes and goes but discpline is important
+=> Teah runs in cycle (position yourself for the next bull)
+=> Content is there , context is missing 
+
+
+**** Fundamentals ****
+
+=> JAVASCRIPT
+-> we need some kind of programming language for web (javascript)
+-> ECMAscript standardise javascript gave outline to create compiler or say javascript engin for every browser
+-> every browser has written diff kind of code to convert javascript into binary 
+
+=> NODEJS
+-> chrome ke v8 engin and C++ ke library ko milakar we made node js a run time on which we can able to run javascript code on backend system are javascript is just not lmited to browser only
+more backend langs are C++  , JAVA , JAvacsript , Golang , Rust
+
+=>function 
+--> functions can take other function as well
+
+=>javascript core theory
+-> single threaded
+-> asyncronous 
+-> Loosely typed and  strongly typed
