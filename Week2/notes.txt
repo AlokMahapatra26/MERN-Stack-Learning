@@ -1,0 +1,25 @@
+***Backend*** 
+=> http server 
+    ->request method
+    -> URL Route
+    -> Query Param Headers body(95%)
+        >we can send data to server via query parameter , headers and body and 99% time we use body but express does not support body thats why we have to use external library called body parser to parse the body 
+    -> Status codes
+        >200 - OK, 404 - not found  , 401 - unauthorized
+        
+    -> Response HTML JSON Text
+
+=> authentication 
+=> middlewares 
+    ->if you introduce a middle in your codebase any request come to your express server fisrt t go to middleware and middleware do some work then pass furthur
+=> databases
+
+=>Client Server model 
+->client(browser , mobile app) -> server 
+
+
+=>HTTP Server
+
+
+
+=>Express

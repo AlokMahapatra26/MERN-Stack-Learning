@@ -27,4 +27,7 @@ more backend langs are C++  , JAVA , JAvacsript , Golang , Rust
 =>javascript core theory
 -> single threaded
 -> asyncronous 
--> Loosely typed and  strongly typed
+-> Loosely typed and  strongly typed 
+-> interpreted 
+
+
